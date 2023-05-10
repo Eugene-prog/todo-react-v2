@@ -2,7 +2,7 @@
 
 ## Todo project v2 from React Course
 
-![Image project](https://github.com/Eugene-prog/todo-react/blob/master/TodoAppv2.png)
+![Image project](https://github.com/Eugene-prog/todo-react-v2/blob/master/TodoAppv2.png)
 
 ## Available Scripts
 
